@@ -1,0 +1,46 @@
+
+.interface{
+	width:400px;
+	margin: 0 auto;
+}
+
+
+.pet-info{
+	height: 125px;
+	width: 400px;
+}
+
+.pet-name{
+	color:#337ab7;
+}
+
+.pet-head{
+	font-size: 20px;
+}
+
+.apt-notes{
+	border-top: solid 1px grey;
+}
+
+.apt-date{
+	float:right;
+	font-size: 18px;
+}
+
+.owner-name{
+	font-size: 18px;
+}
+
+.media-left{
+	float:right;
+	margin-left: 20px;
+	padding:0 !important;
+}
+
+.search-appointments{
+	margin-bottom: 20px;
+}
+
+.label-item{
+	font-weight: bold;
+}
